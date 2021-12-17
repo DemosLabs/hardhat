@@ -1,5 +1,11 @@
 # hardhat
 
+## 2.8.1
+
+### Patch Changes
+
+- 0a5ab4f8: Fix running the `test` task multiple times in a script (issue #1720)
+
 ## 2.8.0
 
 ### Minor Changes
